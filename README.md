@@ -1,5 +1,6 @@
 # FM Clock Radio Project
-## _Useful Information_
+
+## Useful Information
 
 In this repo, we provide some information and documents that may be useful for your FM clock radio project. The information is served as a starting point, you are encouraged to look for more information on the Internet.
 
@@ -7,7 +8,8 @@ In this repo, we provide some information and documents that may be useful for y
 
 To help you get started with the project, we have provided some test code for **selected components**. You can use the test code to test the functioning of the components and learn how to control them. 
 
-Some useful links and tutorials:
+## Tutorials
+
 - Arduino IDE: https://www.arduino.cc/en/software
 - TinkerCAD: https://www.tinkercad.com/learn/circuits/projects
 - Arduino Intro (15 mins): https://www.youtube.com/watch?v=nL34zDTPkcs
@@ -16,3 +18,7 @@ Some useful links and tutorials:
 - What is I2C (6 mins): https://www.youtube.com/watch?v=qTLRRg6Mee0
 - I2C and how to use it (6 mins): https://www.youtube.com/watch?v=_fgWQ3TIhyE
 - IR receiver tutorial: https://www.youtube.com/watch?v=8E3ltjnbV0c
+
+## Our Demo Board
+
+![fm-radio-demo-board](https://user-images.githubusercontent.com/51439829/216356552-f6315c88-4349-44cf-8dcf-7966489b0e7e.png)
