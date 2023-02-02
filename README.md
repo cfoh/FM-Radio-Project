@@ -1,4 +1,4 @@
-# FM Clock Radio Project
+# FM Clock Radio Project ![Powered By Arduino](https://img.shields.io/badge/Powered%20By-Arduino-blueviolet)
 
 In this repo, we provide some information and documents that may be useful for your FM clock radio project. The information is served as a starting point, you are encouraged to look for more information on the Internet.
 
