@@ -1,9 +1,11 @@
 # FM Clock Radio Project
 ## _Useful Information_
 
-In this folder, we provide some information and documents that may be useful for your FM clock radio project. The information is served as a starting point, you are encouraged to look for more information on the Internet.
+In this repo, we provide some information and documents that may be useful for your FM clock radio project. The information is served as a starting point, you are encouraged to look for more information on the Internet.
 
 **IMPORTANT**: In this project, it is not our intention to provide full information nor easy-to-follow step-by-step instructions. In the real world, you always need to find information yourself and check the accuracy of the information.
+
+To help you get started with the project, we have provided some test code for **selected components**. You can use the test code to test the functioning of the components and learn how to control them. 
 
 Some useful links and tutorials:
 - Arduino IDE: https://www.arduino.cc/en/software
