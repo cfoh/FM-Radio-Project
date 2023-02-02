@@ -2,7 +2,7 @@
 
 In this repo, we provide some information and documents that may be useful for your FM clock radio project. The information is served as a starting point, you are encouraged to look for more information on the Internet.
 
-The components that you'll receive are given in the shopping list [pdf](https://github.com/cfoh/FM-Radio-Project/blob/main/FM%20Radio%20-%20Shopping%20List.pdf).
+You can find the components that you'll receive in the shopping list document [here](https://github.com/cfoh/FM-Radio-Project/blob/main/FM%20Radio%20-%20Shopping%20List.pdf).
 
 **IMPORTANT**: In this project, it is not our intention to provide full information nor easy-to-follow step-by-step instructions. In the real world, you always need to find information yourself and check the accuracy of the information.
 
