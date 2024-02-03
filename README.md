@@ -15,7 +15,8 @@ To help you get started with the project, we have provided some test code for **
 ## Some Tutorials
 
 - Arduino IDE: https://www.arduino.cc/en/software
-- TinkerCAD: https://www.tinkercad.com/learn/circuits/projects
+- TinkerCAD simulator: https://www.tinkercad.com/learn/circuits/projects
+- Wokwi online simulator: https://wokwi.com
 - Arduino Intro (15 mins): https://www.youtube.com/watch?v=nL34zDTPkcs
 - Arduino Tutorial for Absolute Beginners (22 mins): https://www.youtube.com/watch?v=fJWR7dBuc18
 - "Hello World" LCD Tutorial (10 mins): https://www.youtube.com/watch?v=Jz0upkFJibQ
