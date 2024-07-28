@@ -6,7 +6,7 @@ You can find the components that you'll receive in the shopping list document [h
 
 **IMPORTANT**: In this project, it is not our intention to provide full information nor easy-to-follow step-by-step instructions. In the real world, you always need to find information yourself and check the accuracy of the information.
 
-To help you get started with the project, we have provided some test code for **selected components**. You can use the test code to test the functioning of the components and learn how to control them. 
+To help you get started with the project, we have provided some test code for **selected components** [here](https://github.com/cfoh/FM-Radio-Project/tree/main/Arduino%20Test%20Code). You can use the test code to test the functioning of the components and learn how to control them. 
 
 ## Block Diagram
 
